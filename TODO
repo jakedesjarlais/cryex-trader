@@ -1,0 +1,8 @@
+PRE REQ
+    - install CUDA 8.0
+    - install CUDNN
+    - install tensor flow
+    - install binance or similar exchange API for python
+      * maybe check or ether delta
+
+Design model
